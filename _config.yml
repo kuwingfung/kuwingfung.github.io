@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Wing-Fung Ku (Max)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Wing-Fung Ku (Max)"
   avatar           : "profile2.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Undergraduate student at Hong Kong Polytechnic University majoring in Internet and Multimedia Technologies"
+  location         : "Hong Kong"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :  # "http://yourfullgooglescholarurl.com"
+  email            : "wing-fung.ku@connect.polyu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "vinesmsuic"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -184,6 +184,12 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  competitions:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -231,6 +237,24 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _competitions
+  - scope:
+      path: ""
+      type: competitions
     values:
       layout: single
       author_profile: true

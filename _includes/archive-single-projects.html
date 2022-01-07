@@ -1,0 +1,77 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
+
+    <h3 class="archive__item-title" itemprop="headline" style="font-size:18px">
+        {{ title }}
+    </h3>
+    
+    {% if post.read_time %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% endif %}
+
+    <div style="line-height: 1.5em;">
+        {% if post.description %}
+          <span style="font-size:16px;">{{post.description}}</span><br />
+        {% endif %}
+
+        {% if post.paperurl %}
+          <a href="{{post.paperurl}}" style="padding:0px;margin:0px;font-size:14px;color:inherit">[PAPER]</a>
+        {% endif %}
+
+        {% if post.reporturl %}
+        <a href="{{post.reporturl}}" style="padding:0px;margin:0px;font-size:14px;color:inherit">[REPORT]</a>
+        {% endif %}
+
+        {% if post.websiteurl %}
+          <a href="{{post.websiteurl}}" style="padding:0px;margin:0px;font-size:14px;color:inherit">[WEBSITE]</a>
+        {% endif %}
+
+        {% if post.slidesurl %}
+          <a href="{{post.slidesurl}}" style="padding:0px;margin:0px;font-size:14px;color:inherit">[SLIDES]</a>
+        {% endif %}
+
+        {% if post.codeurl %}
+          <a href="{{post.codeurl}}" style="padding:0px;margin:0px;font-size:14px;color:inherit">[CODE]</a>
+        {% endif %}
+
+        {% if post.demourl %}
+        <a href="{{post.demourl}}" style="padding:0px;margin:0px;font-size:14px;color:inherit">[DEMO]</a>
+        {% endif %}
+
+        {% if post.videourl %}
+        <a href="{{post.videourl}}" style="padding:0px;margin:0px;font-size:14px;color:inherit">[VIDEO]</a>
+        {% endif %}
+
+        {% if post.award %}
+          <img src="/images/award.png" style="width:24px;height:24px;display:inline-block;vertical-align:top;"/><div style="font-size:14px;color:#245dc1;display:inline-block;">{{ post.award }}</div>
+        {% endif %}
+
+    </div>
+
+  </article>
+</div>
