@@ -1,5 +1,5 @@
 ---
-title: "Game Modding: Vines Terraria Mod"
+title: "Terraria Game Modding"
 excerpt: ""
 collection: projects
 codeurl: "https://github.com/vinesmsuic/Vines-Terraria-Mod"
