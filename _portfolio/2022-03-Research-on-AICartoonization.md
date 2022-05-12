@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning Image Cartoonization"
-excerpt: ""
+excerpt: "<br/><img src='/images/WBC-pre-result.png' width='500'>"
 collection: projects
 description: ""
 ---
