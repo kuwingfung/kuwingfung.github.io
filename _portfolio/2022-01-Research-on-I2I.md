@@ -1,8 +1,8 @@
 ---
 title: "Deep Learning Image-to-Image Translation"
-excerpt: ""
+excerpt: "My final year project extensively studied the use of GAN-based methods in Image-to-image translation. <br/><img src='/images/highlight-sketch2anime.png' width='500'>"
 collection: portfolio
-description: "My final year project extensively studied the use of GAN-based methods in Image-to-image translation. <br/><img src='/images/highlight-sketch2anime.png' width='500'>"
+description: ""
 ---
 
 Image-to-image translation is a computer vision problem where the goal is to convert an image from one domain
@@ -19,6 +19,8 @@ method, and generative adversarial network with cycle-consistency loss is used a
 quantitative comparison shown generative adversarial network with cycle-consistency loss produces better results
 than arbitrary image stylization in Chinese painting style transfer application.
 <br/>
+<img src='/images/highlight-scene2cpaint.png'>
+<br/>
 The second application could paint the color on black and white sketches, and we carried out the experiment
 using two different methods. A conditional generative adversarial network with L1 loss is used as the first
 method, and then we proposed a novel approach that uses conditional generative adversarial network with
@@ -26,14 +28,12 @@ perceptual loss and spectral normalization as the second method. Our statistical
 produces better results than conditional generative adversarial network with L1 loss in anime sketch colorization
 application.
 <br/>
+<img src='/images/highlight-sketch2anime.png'>
+<br/>
 The third application could convert a cat into a tiger inside an image, and we carried out the experiment using
 two different methods. Generative adversarial network with cycle-consistency loss is used as the first method,
 and generative adversarial network with contrastive loss is used as the second method. Our statistical results
 reported that generative adversarial network with cycle-consistency loss produces better results than generative
 adversarial network with contrastive loss in animal configuration application.
-<br/>
-<img src='/images/highlight-sketch2anime.png'>
-<br/>
-<img src='/images/highlight-scene2cpaint.png'>
 <br/>
 <img src='/images/highlight-cat2tiger.png'>
