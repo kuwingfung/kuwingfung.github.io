@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning Image-to-Image Translation"
-excerpt: "My final year project extensively studied the use of GAN-based methods in Image-to-image translation. <br/><img src='/images/i2i-application-demo.png' width='500'><br/><img src='/images/highlight-sketch2anime.png' width='500'>"
+excerpt: "My honours project extensively studied the use of GAN-based methods in Image-to-image translation. <br/><img src='/images/i2i-application-demo.png' width='500'><br/><img src='/images/highlight-sketch2anime.png' width='500'>"
 collection: portfolio
 description: ""
 ---

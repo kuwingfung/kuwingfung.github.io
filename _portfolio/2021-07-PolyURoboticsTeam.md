@@ -1,5 +1,5 @@
 ---
-title: "PolyU FENG Robotics Team"
+title: "PolyU Faculty of Engineering Robotics Team"
 excerpt: "I joined PolyU Robotics Team in my first year and retired after the third year playing in Robocon. Each year we were given 500k HKD funding to build 2 robots to play in ABU Robocon HK (Biggest inter-university robotics event in Asia & HK).<br/><img src='/images/crimson1819.jpg' width='500'><br/><img src='/images/crimson2021-demo1.png' width='500'>"
 collection: portfolio
 codeurl: https://github.com/PolyU-Robocon
