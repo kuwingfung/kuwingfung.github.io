@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning Image Cartoonization"
-excerpt: "<br/><img src='/images/WBC-pre-result.png' width='500'>"
-collection: projects
+excerpt: "Turning any image into anime. Currently Work in progress. <br/><img src='/images/WBC-pre-result.png' width='500'>"
+collection: portfolio
 description: ""
 ---
 
