@@ -9,3 +9,8 @@ A Cartoon is a type of two-dimensional illustration drawn in non-realistic style
 
 Cartoonization refers to an action that turns a real-life image or video into cartoon-like image or video. It is often done by human through re-drawing the whole image or video frames. However, in recent years researchers have been looking for ways to automate the cartoonization. It is a challenging but also valuable problem in the computer vision field, since there are still no satisfactory results for cartoonization nowadays.
 
+Our work help artists to produce anime background so that they could use it for their game development.
+
+<br/><img src='/images/WBC-demo.png'>
+
+<br/><img src='/images/WBC-pre-result.png'>
