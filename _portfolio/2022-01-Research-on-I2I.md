@@ -47,5 +47,4 @@ adversarial network with contrastive loss in animal configuration application.
 
 
 If you are interested in this work, you can find more information below.
-* [Report](https://drive.google.com/file/d/1kJ9u_YhaC-dA7MnkIa_InELtwd0zfozd/view?usp=sharing)
 * [Slides](https://drive.google.com/file/d/1e8k4OYLUKTbeNTlvY8CDumzvH7nOGULP/view?usp=sharing)
