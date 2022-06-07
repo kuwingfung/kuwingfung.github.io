@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning Image Cartoonization"
-excerpt: "Turning any image into anime. Currently Work in progress. This project is supported by Undergraduate Research and Innovation Scheme (URIS) in PolyU. <br/><img src='/images/WBC-demo.png' width='500'><br/><img src='/images/WBC-pre-result.png' width='500'>"
+excerpt: "In this work we proposed a Generative Adversarial Network that could transform real-world photos into high-quality cartoon style images. Aiming to create anime background images, we proposed (1) a new dataset that help increasing quality of output, and (2) an edge loss that creates a brushstroke feeling in the output image. We also created an inference program that allows any user to easily inference on images or videos with flexible size. The experiments show that our methods are both visually and quantitatively outperforming the state-of-the-art AI cartoonization methods. This project is supported by Undergraduate Research and Innovation Scheme (URIS) in PolyU. <br/><img src='/images/WBC-demo.png' width='500'><br/><img src='/images/WBC-pre-result.png' width='500'>"
 collection: portfolio
 description: ""
 ---
@@ -13,4 +13,8 @@ Our work help artists to produce anime background so that they could use it for 
 
 <br/><img src='/images/WBC-demo.png'>
 
-<br/><img src='/images/WBC-pre-result.png'>
+In this work we proposed a Generative Adversarial Network that could transform real-world photos into high-quality cartoon style images. Aiming to create anime background images, we proposed (1) a new dataset that help increasing quality of output, and (2) an edge loss that creates a brushstroke feeling in the output image. The experiments show that our methods are both visually and quantitatively outperforming the state-of-the-art AI cartoonization methods. 
+
+<br/><img src='/images/WBC-viscomp.png'>
+
+<br/><img src='/images/WBC-FID.png'>
