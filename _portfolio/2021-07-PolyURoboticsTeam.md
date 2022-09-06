@@ -1,12 +1,12 @@
 ---
 title: "PolyU Faculty of Engineering Robotics Team"
-excerpt: "I joined PolyU Robotics Team in my first year and retired after the third year playing in Robocon. Each year we were given 500k HKD funding to build 2 robots to play in ABU Robocon HK (Biggest inter-university robotics event in Asia & HK).<br/><img src='/images/crimson1819.jpg' width='500'><br/><img src='/images/crimson2021-demo1.png' width='500'>"
+excerpt: "I joined PolyU Robotics Team in my first year and retired after the third year playing in Robocon. I participated in ABU Robocon 2019, ABU Robocon 2020, and ABU Robocon 2021. Each year we were given 500k HKD funding to build 2 robots to play in ABU Robocon HK (Biggest inter-university robotics event in Asia & HK).<br/><img src='/images/crimson1819.jpg' width='500'><br/><img src='/images/crimson2021-demo1.png' width='500'>"
 collection: portfolio
 codeurl: https://github.com/PolyU-Robocon
 description: ""
 ---
 
-I joined PolyU Robotics Team in my first year and retired after the third year playing in Robocon. Each year we were given 500k HKD funding to build 2 robots to play in ABU Robocon HK (Biggest inter-university robotics event in Asia & HK). I contributed in 4 robot developments over the past 3 years. Playing in Robotics Team has gained me: 
+I joined PolyU Robotics Team in my first year and retired after the third year playing in Robocon. I participated in ABU Robocon 2019, ABU Robocon 2020, and ABU Robocon 2021. Each year we were given 500k HKD funding to build 2 robots to play in ABU Robocon HK (Biggest inter-university robotics event in Asia & HK). I contributed in 4 robot developments over the past 3 years. Playing in Robotics Team has gained me: 
 * 1) experience participating in large practical robot development projects.
 * 2) insights in state of the art technologies.
 * 3) resilience when working under a tight deadline.

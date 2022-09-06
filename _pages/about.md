@@ -10,7 +10,6 @@ redirect_from:
 
 ![](https://kuwingfung.github.io/images/banner.png)
 
-I am currently a final year undergraduate student at The Hong Kong Polytechnic University (PolyU), majoring in Internet and Multimedia Technologies. I am currently working as a Undergraduate Researcher at PolyU under the Undergraduate Research and Innovation Scheme (URIS) with scholarships.
+I am currently a Research Assistant under the supervision of [Prof. Wan-Chi Siu](http://www.eie.polyu.edu.hk/~wcsiu/) in Artificial Intelligence Laboratory, School of Computing and Information Sciences at Caritas Institute of Higher Education. Before that, I have received Bachelor of Science (Hons) Degree in Internet and Multimedia Technologies at The Hong Kong Polytechnic University (PolyU) with first class honor in 2022.
 
-My interests are primarily in the Computer Vision and Image Synthesis areas, and I enjoy exploring SOTA technologies. Moreover, I also have experience in developing robots and games. I played in PolyU FENG Robotics Team for 3 years and contributed in 4 robots development. I also developed two games and we are having plans to release them on game platforms.
-
+My research interests are Computer Vision and Deep Image Synthesis, and I enjoy exploring SOTA technologies in 2D image and 3D vision areas. My final year project extensively studied the usage of Generative adversarial network (GAN) in Image-To-Image Translation, while My undergrad research project (URIS) researched on Deep learning-based image cartoonization effect.
