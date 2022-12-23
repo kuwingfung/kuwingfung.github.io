@@ -237,8 +237,6 @@ GEM
     multipart-post (2.1.1)
     nokogiri (1.13.0-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.13.0-x86_64-darwin)
-      racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -281,6 +279,7 @@ GEM
 
 PLATFORMS
   universal-darwin-19
+  universal-darwin-21
 
 DEPENDENCIES
   github-pages

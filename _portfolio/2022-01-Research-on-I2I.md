@@ -2,7 +2,7 @@
 title: "Deep Learning Image-to-Image Translation"
 excerpt: "My honours project extensively studied the use of GAN-based methods in Image-to-image translation. The first application could apply the style of Chinese paintings to a scenery image, the second application could paint the color on black and white sketches, and the third application could convert a cat into a tiger inside an image. <br/><img src='/images/i2i-application-demo.png' width='500'><br/><img src='/images/highlight-sketch2anime.png' width='500'>"
 collection: portfolio
-description: ""
+description: "My honours project extensively studied the use of GAN-based methods in Image-to-image translation. The first application could apply the style of Chinese paintings to a scenery image, the second application could paint the color on black and white sketches, and the third application could convert a cat into a tiger inside an image."
 ---
 
 Image-to-image translation is a computer vision problem where the goal is to convert an image from one domain

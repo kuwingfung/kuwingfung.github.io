@@ -1,0 +1,428 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+
+<meta charset="utf-8">
+
+
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Anime Visual Novel Background Diffusion - Wing-Fung ‘Max’ Ku</title>
+
+
+
+
+
+
+
+<meta property="og:locale" content="en-US">
+<meta property="og:site_name" content="Wing-Fung 'Max' Ku">
+<meta property="og:title" content="Anime Visual Novel Background Diffusion">
+
+
+  <link rel="canonical" href="https://kuwingfung.github.io/portfolio/2022-11-VisualNovelHelper/">
+  <meta property="og:url" content="https://kuwingfung.github.io/portfolio/2022-11-VisualNovelHelper/">
+
+
+
+  <meta property="og:description" content="A prototype project of generating Visual Novel backgrounds for game developers/artists. A Stable Diffusion model is fune-tuned to produce visual novel backgrounds with just a few prompts. It is designed to allow creators to quickly and easily generate custom backgrounds for their visual novels. Model available on Hugging Face space.">
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Max Ku",
+      "url" : "https://kuwingfung.github.io",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="https://kuwingfung.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Wing-Fung 'Max' Ku Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="https://kuwingfung.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    
+
+<!-- start custom head snippets -->
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://kuwingfung.github.io/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="60x60" href="https://kuwingfung.github.io/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="72x72" href="https://kuwingfung.github.io/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="76x76" href="https://kuwingfung.github.io/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="114x114" href="https://kuwingfung.github.io/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="120x120" href="https://kuwingfung.github.io/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="144x144" href="https://kuwingfung.github.io/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="152x152" href="https://kuwingfung.github.io/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="180x180" href="https://kuwingfung.github.io/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
+<link rel="icon" type="image/png" href="https://kuwingfung.github.io/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
+<link rel="icon" type="image/png" href="https://kuwingfung.github.io/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
+<link rel="icon" type="image/png" href="https://kuwingfung.github.io/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
+<link rel="icon" type="image/png" href="https://kuwingfung.github.io/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
+<link rel="manifest" href="https://kuwingfung.github.io/images/manifest.json?v=M44lzPylqQ">
+<link rel="mask-icon" href="https://kuwingfung.github.io/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
+<link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="https://kuwingfung.github.io/images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="https://kuwingfung.github.io/images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="https://kuwingfung.github.io/assets/css/academicons.css"/>
+
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://kuwingfung.github.io/">Wing-Fung 'Max' Ku</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://kuwingfung.github.io/portfolio/">Portfolio</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://kuwingfung.github.io/competitions/">Competitions</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://kuwingfung.github.io/publications/">Publications</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://vinesmsuic.github.io/">Blog Posts</a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+
+
+<div id="main" role="main">
+  
+
+
+  <div class="sidebar sticky">
+  
+
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="author__avatar">
+    
+    	<img src="https://kuwingfung.github.io/images/profile3.png" class="author__avatar" alt="Wing-Fung 'Max' Ku">
+    
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">Wing-Fung 'Max' Ku</h3>
+    <p class="author__bio">Student</p>
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+      
+      
+      
+        <li><a href="mailto:wingfku2@gmail.com"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+      
+      
+       
+      
+        <li><a href="https://twitter.com/vinesmsuic"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      
+      
+      
+      
+        <li><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/wing-fung-ku-650571172/"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+      
+      
+      
+      
+      
+      
+        <li><a href="https://github.com/vinesmsuic"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Anime Visual Novel Background Diffusion">
+    <meta itemprop="description" content="A prototype project of generating Visual Novel backgrounds for game developers/artists. A Stable Diffusion model is fune-tuned to produce visual novel backgrounds with just a few prompts. It is designed to allow creators to quickly and easily generate custom backgrounds for their visual novels. Model available on Hugging Face space. ">
+    
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">Anime Visual Novel Background Diffusion
+</h1>
+          
+        
+        
+        
+        
+             
+        
+    
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <p>A prototype project of generating Visual Novel backgrounds for game developers/artists. This model is intended to produce visual novel backgrounds with just a few prompts. Version 3 is based on Anything-V3.</p>
+
+<ul>
+  <li><a href="https://huggingface.co/vinesmsuic/bg-visualnovel-v03">Hugging Space Link v3 (Based on Anything-v3)</a></li>
+  <li><a href="https://huggingface.co/vinesmsuic/bg-visualnovel-v02">Hugging Space Link v2 (Based on SD1.4)</a></li>
+  <li><a href="https://colab.research.google.com/drive/1tR5e_EN9REJh0yr0T-dIyAIwiTMfNSxE?usp=sharing">Simple GUI Google Colab Demo here</a></li>
+</ul>
+
+<p><img src="/images/VNHSD1.png" alt="" /></p>
+
+<h2 id="-diffusers">🧨 Diffusers</h2>
+
+<p>This model can be used just like any other Stable Diffusion model. For more information,
+please have a look at the <a href="https://huggingface.co/docs/diffusers/api/pipelines/stable_diffusion">Stable Diffusion</a>.</p>
+
+<p>You can also export the model to <a href="https://huggingface.co/docs/diffusers/optimization/onnx">ONNX</a>, <a href="https://huggingface.co/docs/diffusers/optimization/mps">MPS</a> and/or <a href="">FLAX/JAX</a>.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">diffusers</span> <span class="kn">import</span> <span class="n">StableDiffusionPipeline</span>
+<span class="kn">import</span> <span class="nn">torch</span>
+
+<span class="n">model_id</span> <span class="o">=</span> <span class="s">"vinesmsuic/bg-visualnovel-v03"</span>
+<span class="n">pipe</span> <span class="o">=</span> <span class="n">StableDiffusionPipeline</span><span class="p">.</span><span class="n">from_pretrained</span><span class="p">(</span><span class="n">model_id</span><span class="p">,</span> <span class="n">torch_dtype</span><span class="o">=</span><span class="n">torch</span><span class="p">.</span><span class="n">float16</span><span class="p">)</span>
+<span class="n">pipe</span> <span class="o">=</span> <span class="n">pipe</span><span class="p">.</span><span class="n">to</span><span class="p">(</span><span class="s">"cuda"</span><span class="p">)</span>
+
+<span class="n">prompt</span> <span class="o">=</span> <span class="s">"a classroom"</span>
+<span class="n">image</span> <span class="o">=</span> <span class="n">pipe</span><span class="p">(</span><span class="n">prompt</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">512</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">512</span><span class="p">).</span><span class="n">images</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+<span class="c1"># ^ alternatively you can use for height=1920, width=1080 if you have enough CUDA memory
+# make sure both height and width are divisible by 8
+</span><span class="n">image</span><span class="p">.</span><span class="n">save</span><span class="p">(</span><span class="s">"./classroom.png"</span><span class="p">)</span>
+
+<span class="n">prompt</span> <span class="o">=</span> <span class="s">"a hospital building, two trees"</span>
+<span class="n">image</span> <span class="o">=</span> <span class="n">pipe</span><span class="p">(</span><span class="n">prompt</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">512</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">512</span><span class="p">).</span><span class="n">images</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+
+<span class="n">image</span><span class="p">.</span><span class="n">save</span><span class="p">(</span><span class="s">"./hospital.png"</span><span class="p">)</span>
+
+<span class="n">prompt</span> <span class="o">=</span> <span class="s">"a street at night with nobody around"</span>
+<span class="n">image</span> <span class="o">=</span> <span class="n">pipe</span><span class="p">(</span><span class="n">prompt</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">512</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">512</span><span class="p">).</span><span class="n">images</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+
+<span class="n">image</span><span class="p">.</span><span class="n">save</span><span class="p">(</span><span class="s">"./nightstreet.png"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<h2 id="examples">Examples</h2>
+
+<p>a classroom</p>
+
+<p><img src="https://huggingface.co/vinesmsuic/bg-visualnovel-v03/resolve/main/_examples/classroom.png" alt="" />
+<img src="/images/VNHSD-class.png" alt="" /></p>
+
+<p>a hospital building, two trees</p>
+
+<p><img src="https://huggingface.co/vinesmsuic/bg-visualnovel-v03/resolve/main/_examples/hospital.png" alt="" />
+<img src="/images/VNHSD-hosp.png" alt="" /></p>
+
+<p>a street at night with nobody around</p>
+
+<p><img src="https://huggingface.co/vinesmsuic/bg-visualnovel-v03/resolve/main/_examples/nightstreet.png" alt="" />
+<img src="/images/VNHSD-night.png" alt="" /></p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+
+
+      </footer>
+
+      
+
+<section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?text=https://kuwingfung.github.io/portfolio/2022-11-VisualNovelHelper/" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://kuwingfung.github.io/portfolio/2022-11-VisualNovelHelper/" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://kuwingfung.github.io/portfolio/2022-11-VisualNovelHelper/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+      
+
+
+  <nav class="pagination">
+    
+      <a href="https://kuwingfung.github.io/portfolio/2022-10-IntelligentPainter/" class="pagination--pager" title="Intelligent Painter: Picture Composition With Resampling Diffusion Model
+">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+<a href="/sitemap/">Sitemap</a>
+<!-- end custom footer snippets -->
+
+        
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+    
+    
+      <li><a href="http://github.com/vinesmsuic"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    <li><a href="https://kuwingfung.github.io/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2022 Max Ku. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    <script src="https://kuwingfung.github.io/assets/js/main.min.js"></script>
+
+
+
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+
+
+
+
+  </body>
+</html>
+
