@@ -1,6 +1,6 @@
 ---
 title: "Anime Visual Novel Background Diffusion"
-excerpt: "A prototype project of generating Visual Novel backgrounds for game developers/artists. A Stable Diffusion model is fune-tuned to produce visual novel backgrounds with just a few prompts. It is designed to allow creators to quickly and easily generate custom backgrounds for their visual novels. Model available on Hugging Face space. <br/><img src='/images/VNHSD1.png' width='500'><br/><img src='/images/VNHSD-night.png' width='500'>"
+excerpt: "A Stable Diffusion model is fune-tuned to produce visual novel backgrounds with just a few prompts. It is designed to allow creators to quickly and easily generate custom backgrounds for their visual novels. Model available on Hugging Face space. <br/><img src='/images/VNHSD1.png' width='500'><br/><img src='/images/VNHSD-night.png' width='500'>"
 collection: portfolio
 description: "A prototype project of generating Visual Novel backgrounds for game developers/artists. A Stable Diffusion model is fune-tuned to produce visual novel backgrounds with just a few prompts. It is designed to allow creators to quickly and easily generate custom backgrounds for their visual novels. Model available on Hugging Face space."
 ---
