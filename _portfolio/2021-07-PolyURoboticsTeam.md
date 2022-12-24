@@ -19,6 +19,8 @@ Robocon 2021's theme was "Throwing Arrows" from the ancient china culture known 
 
 I was also interviewed in the 1-hour prime show ’Robocon2021’ broadcasted by RTHK, as the only university team integrated AI/Computer Vision to the robots.
 
+Btw, we released our dataset on Kaggle: https://www.kaggle.com/datasets/vinesmsuic/abu-robocon-2021-pot-dataset
+
 <br/>
 <img src='/images/crimson2021-demo2.png'>
 <img src='/images/crimson2021-demo1.png'>
