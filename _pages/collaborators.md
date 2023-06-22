@@ -5,12 +5,20 @@ permalink: /collaborators/
 author_profile: true
 ---
 
+## University of Waterloo
+
+### [Prof Wenhu Chen](https://wenhuchen.github.io/)
+I am working as a volunteer in [Prof. Wenhu Chen](https://wenhuchen.github.io/)'s research group with focus on image manipulation with deep generative models.
+
+* DreamEdit: Subject-Driven Image Editing (arxiv coming soon)
+* [TheoremQA: A Theorem-driven Question Answering dataset](https://arxiv.org/abs/2305.12524)
+
 ## The Hong Kong Polytechnic University
 
 ### [Prof. Wan-Chi Siu](http://www.eie.polyu.edu.hk/~wcsiu/)
 I was working in [Prof. Wan-Chi Siu](http://www.eie.polyu.edu.hk/~wcsiu/)'s research group and we produced an academic paper. Working with Prof. Siu, I was provided an opportunity to study on image manipulation problems and literature writing.
 
-* [Preprint: Intelligent Painter - Picture Composition With Resampling Diffusion Model](https://kuwingfung.github.io/publication/ipainter)
+* [Intelligent Painter - Picture Composition With Resampling Diffusion Model](https://kuwingfung.github.io/publication/ipainter)
 
 
 ### [Prof. Bonnie Law](http://www.eie.polyu.edu.hk/~nflaw/)
