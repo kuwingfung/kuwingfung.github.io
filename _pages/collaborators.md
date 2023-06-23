@@ -7,10 +7,10 @@ author_profile: true
 
 ## University of Waterloo
 
-### [Prof Wenhu Chen](https://wenhuchen.github.io/)
+### [Prof. Wenhu Chen](https://wenhuchen.github.io/)
 I am working as a volunteer in [Prof. Wenhu Chen](https://wenhuchen.github.io/)'s research group with focus on image manipulation with deep generative models.
 
-* DreamEdit: Subject-Driven Image Editing (arxiv coming soon)
+* [DreamEdit: Subject-Driven Image Editing](https://dreameditbenchteam.github.io/)
 * [TheoremQA: A Theorem-driven Question Answering dataset](https://arxiv.org/abs/2305.12524)
 
 ## The Hong Kong Polytechnic University
