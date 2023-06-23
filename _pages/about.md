@@ -10,7 +10,7 @@ redirect_from:
 
 ![](https://kuwingfung.github.io/images/banner.png)
 
-My name is Wing-Fung Ku (*古永豐* in chinese), also known as *vinesmsuic* on the internet.
+My name is Max Ku / Wing-Fung Ku (*古永豐* in chinese), also known as *vinesmsuic* on the internet.
 
 My research interests are Computer Vision and Deep Image Synthesis, and I enjoy exploring SOTA technologies in 2D image and 3D vision areas. My goal is to create tools to free human's creativity and visualize their mind, produce content with ease.
 
