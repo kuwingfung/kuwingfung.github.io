@@ -12,9 +12,6 @@ main:
   #- title: "Projects"
   #  url: /projects/
 
-  - title: "Competitions"
-    url: /competitions/
-
   - title: "Publications"
     url: /publications/
 
@@ -22,10 +19,13 @@ main:
   #  url: /talks/    
 
   #- title: "Teaching"
-  #  url: /teaching/    
-
+  #  url: /teaching
+      
   - title: "Collaborators"
     url: /collaborators/
+
+  - title: "Competitions"
+    url: /competitions/
 
   - title: "Blog Posts"
     url: /blog/
