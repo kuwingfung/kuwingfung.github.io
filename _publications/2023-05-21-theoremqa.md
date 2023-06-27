@@ -2,7 +2,7 @@
 title: "TheoremQA: A Theorem-driven Question Answering dataset"
 collection: publications
 permalink: /publication/theoremqa
-excerpt: 'Wenhu Chen, Ming Yin, Max Ku, Pan Lu, Yixin Wan, Xueguang Ma, Jianyu Xu, Xinyi Wang, Tony Xia'
+excerpt: 'Wenhu Chen, Ming Yin, <u>Max Ku</u>, Pan Lu, Yixin Wan, Xueguang Ma, Jianyu Xu, Xinyi Wang, Tony Xia'
 date: 2023-05-21
 venue: 'Preprint, TBA'
 paperurl: 'https://arxiv.org/abs/2305.12524'

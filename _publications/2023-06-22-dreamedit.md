@@ -2,7 +2,7 @@
 title: "DreamEdit: Subject-driven Image Editing"
 collection: publications
 permalink: /publication/dreamedit
-excerpt: 'Tianle Li, Max Ku*, Cong Wei*, Wenhu Chen'
+excerpt: 'Tianle Li, <u>Max Ku</u>, Cong Wei, Wenhu Chen'
 date: 2023-06-22
 venue: 'Preprint, TBA'
 paperurl: 'https://arxiv.org/abs/2306.12624'
