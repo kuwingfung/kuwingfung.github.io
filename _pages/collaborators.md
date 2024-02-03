@@ -8,8 +8,9 @@ author_profile: true
 ## University of Waterloo
 
 ### [Prof. Wenhu Chen](https://wenhuchen.github.io/)
-I am working in my supervisor [Prof. Wenhu Chen](https://wenhuchen.github.io/)'s research group with focus on multimodal generative models.
+During my master at University of Waterloo, I work in my supervisor [Prof. Wenhu Chen](https://wenhuchen.github.io/)'s research group with focus on multimodal generative models.
 
+* [VIEScore: Towards Explainable Metrics for Conditional Image Synthesis Evaluation](https://tiger-ai-lab.github.io/VIEScore/)
 * [ImagenHub: Standardizing the evaluation of conditional image generation models](https://tiger-ai-lab.github.io/ImagenHub/)
 * [DreamEdit: Subject-Driven Image Editing](https://dreameditbenchteam.github.io/)
 * [TheoremQA: A Theorem-driven Question Answering dataset](https://arxiv.org/abs/2305.12524)
