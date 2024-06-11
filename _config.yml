@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Max W.F. Ku (古永豐)  # the website title (if blank, full name will be used instead)
+title: Max W.F. Ku (古永豐) # the website title (if blank, full name will be used instead)
 first_name: Max
 middle_name: W.F.
 last_name: Ku
@@ -129,7 +129,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Max Academic Page # blog_name will be displayed in your blog page
-blog_description: A page to know about the research of Max working on 
+blog_description: A page to know about the research of Max working on
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -324,8 +324,8 @@ scholar:
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
-  altmetric: false  # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
-  dimensions: false  # Dimensions badge (https://badge.dimensions.ai/)
+  altmetric: false # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  dimensions: false # Dimensions badge (https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
@@ -353,7 +353,7 @@ filtered_bibtex_keywords:
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit:  # leave blank to always show all authors
+max_author_limit: # leave blank to always show all authors
 more_authors_animation_delay: 5 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
