@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - vinesmsuic
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - TIGER-AI-Lab/AnyV2V
+  - TIGER-AI-Lab/ImagenHub
+  - TIGER-AI-Lab/VIEScore
+  - DreamEditBenchTeam/DreamEdit
+  - vinesmsuic/ipainter-diffusion
+  - vinesmsuic/White-box-Cartoonization-PyTorch
