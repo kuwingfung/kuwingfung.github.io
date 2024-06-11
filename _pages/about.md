@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://uwaterloo.ca/'>University of Waterloo</a>; <a href='https://vectorinstitute.ai/'>Vector Institute</a>;
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>You're doing what you love.</p>
+    <p>Isn't that that enough?</p>
+    <p>Isn't that that enough?</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am now a Master of Math in Computer Science student at the Cheriton School of Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). Previously, I earned [BSc in Internet and Multimedia Technologies](https://www.polyu.edu.hk/eie/prospective-students/undergraduate-students/student-and-graduate-stories/) from Hong Kong Polytechnic University with first class honor, being advised by [Prof. Bonnie N.F. Law](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-law-ngai-fong-bonnie/) and [Prof. Wan-Chi Siu](https://www.eie.polyu.edu.hk/~wcsiu/). 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am glad that I was involved in RoboCon and VR contests during my undergraduate study, in which I acquired technical skills and developed the mindset of a professional engineer. The academic environment also raised my interest in research. My research interests are Computer Vision and Multimodal Generative Models, and I enjoy exploring SOTA technologies in 2D image and 3D vision areas. My goal is to create tools to free human's creativity and visualize their mind, produce content with ease.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
