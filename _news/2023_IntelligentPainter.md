@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Intelligent Painter](arxiv.org/abs/2210.17106) got accepted to ICIP 2023!
+[Intelligent Painter](https://arxiv.org/abs/2210.17106) got accepted to ICIP 2023!
