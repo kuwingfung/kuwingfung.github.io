@@ -13,7 +13,7 @@ footer_text: >
   ...
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://kuwingfung.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -109,7 +109,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Welcome to connect with me through email and linkedin!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -164,11 +164,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
   - name: Vines Blog
+    rss_url: https://vinesmsuic.github.io/atom.xml
+  - name: Some pinned tweets
     posts:
-      - url: https://vinesmsuic.github.io/
+      - url: https://twitter.com/vinesmsuic/status/1799243148717429041
         published_date: 2024-06-01
 
 # -----------------------------------------------------------------------------
