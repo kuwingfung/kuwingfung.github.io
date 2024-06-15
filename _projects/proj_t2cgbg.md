@@ -2,7 +2,7 @@
 layout: page
 title: Text to Visual Novel Background
 description: A finetuned Stable Diffusion model to generate visual novel backgrounds
-img: assets/img/6.jpg
+img: https://i.imgur.com/LF5UVuN.png
 redirect: https://huggingface.co/vinesmsuic/bg-visualnovel-v03
 importance: 1
 category: Fun

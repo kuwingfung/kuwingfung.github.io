@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://uwaterloo.ca/'>University of Waterloo</a>; <a href='https://vectorinstitute.ai/'>Vector Institute</a>;
 
@@ -9,10 +9,8 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>You're doing what you love.</p>
-    <p>Isn't that that enough?</p>
-    <p>Isn't that that enough?</p>
-
+    <p><a href="https://www.youtube.com/watch?v=_PSjoVXFGAQ">You're doing what you love.</a></p>
+    <p><a href="https://www.youtube.com/watch?v=_PSjoVXFGAQ">Isn't that enough?</a></p>
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
