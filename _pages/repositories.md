@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description:
 nav: true
 nav_order: 4
 ---
 
-## GitHub users
+## My GitHub Account Status
 
 {% if site.data.repositories.github_users %}
 
@@ -35,7 +35,7 @@ nav_order: 4
 {% endif %}
 {% endif %}
 
-## GitHub Repositories
+## Featured Repositories
 
 {% if site.data.repositories.github_repos %}
 
