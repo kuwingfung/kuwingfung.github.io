@@ -166,10 +166,6 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: Vines Blog
     rss_url: https://vinesmsuic.github.io/atom.xml
-  - name: Some pinned tweets
-    posts:
-      - url: https://twitter.com/vinesmsuic/status/1799243148717429041
-        published_date: 2024-06-01
 
 # -----------------------------------------------------------------------------
 # Collections
