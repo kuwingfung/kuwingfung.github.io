@@ -1,10 +1,10 @@
 ---
 layout: page
-title: VisualNovel Background Generator
-description: A finetuned Stable Diffusion model to generate visual novel backgrounds
-img: https://i.imgur.com/LF5UVuN.png
-redirect: https://huggingface.co/vinesmsuic/bg-visualnovel-v03
-importance: 1
+title: Paper Warfare
+description: A game inspired by collective primary school memories of Hong Kong teentagers playing paper-folded aircraft back in their childhood.
+img: https://github.com/kuwingfung/kuwingfung.github.io_old/blob/main/images/aircraft-demo4.jpg?raw=true
+redirect: https://www.youtube.com/watch?v=3XEaGJBC2TM&list=PLnBb01qou_leLa46iuIXJyTRyLwrMW_IE
+importance: 2
 category: Fun
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: VisualNovel Background Generator
-description: A finetuned Stable Diffusion model to generate visual novel backgrounds
-img: https://i.imgur.com/LF5UVuN.png
-redirect: https://huggingface.co/vinesmsuic/bg-visualnovel-v03
+title: White-box Cartoonization GAN
+description: A pytorch implementation of Cartoon-based GAN.
+img: https://camo.githubusercontent.com/ed5d362ecab03a2b7732f6e87dd3f4b1a67633a9e33e81d60e6cda8daaac190c/68747470733a2f2f692e696d6775722e636f6d2f686c7a4f41546f2e706e67
+redirect: https://github.com/vinesmsuic/White-box-Cartoonization-PyTorch
 importance: 1
 category: Fun
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: VisualNovel Background Generator
-description: A finetuned Stable Diffusion model to generate visual novel backgrounds
-img: https://i.imgur.com/LF5UVuN.png
-redirect: https://huggingface.co/vinesmsuic/bg-visualnovel-v03
-importance: 1
+title: 1stPerson Bomberman
+description: A 3D first person bomberman game in VR and mobile.
+img: https://github.com/kuwingfung/kuwingfung.github.io_old/raw/main/images/bomberman.png
+redirect: https://www.youtube.com/watch?v=1G1KheihKaI&list=PLnBb01qou_leNClyWaf7dN45oDFKn9g-y
+importance: 2
 category: Fun
 ---
 

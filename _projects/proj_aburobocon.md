@@ -1,10 +1,10 @@
 ---
 layout: page
-title: VisualNovel Background Generator
-description: A finetuned Stable Diffusion model to generate visual novel backgrounds
-img: https://i.imgur.com/LF5UVuN.png
-redirect: https://huggingface.co/vinesmsuic/bg-visualnovel-v03
-importance: 1
+title: ABU Robocon
+description: Asia Undergraduate Robotics Contest
+img: https://github.com/kuwingfung/kuwingfung.github.io_old/raw/main/images/crimson2021-demo1.png
+redirect: https://www.youtube.com/watch?v=SXdlHsDGMmI&list=PLnBb01qou_lcYCLSfbAs-lZ5BZOzWsfSt
+importance: 2
 category: Fun
 ---
 
