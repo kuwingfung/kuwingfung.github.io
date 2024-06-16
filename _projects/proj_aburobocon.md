@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ABU Robocon
-description: Asia Undergraduate Robotics Contest
+description: Asia Undergraduate Robotics Contest. Each year we were given 500k HKD funding to build 2 robots to play in ABU Robocon HK (Biggest inter-university robotics event in Asia & HK).
 img: https://github.com/kuwingfung/kuwingfung.github.io_old/raw/main/images/crimson2021-demo1.png
 redirect: https://www.youtube.com/watch?v=SXdlHsDGMmI&list=PLnBb01qou_lcYCLSfbAs-lZ5BZOzWsfSt
 importance: 2
