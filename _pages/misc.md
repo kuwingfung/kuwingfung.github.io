@@ -21,3 +21,7 @@ nav_order: 6
 
 - 2024: Interviewed by MIT Technology Review China & DeepTech for my research work AnyV2V.
 - 2022: Interviewed in 1-hour prime show ABU Asia-Pacific RoboCon 2021 HK Contest broadcasted by RTHK.
+
+### Vine's Notes:
+
+[A Learning website that I upload my notes since my undergrad.](https://vinesmsuic.github.io/)
