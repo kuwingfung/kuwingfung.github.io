@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 I am now a Master of Math in Computer Science student at the Cheriton School of Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). Previously, I earned [BSc in Internet and Multimedia Technologies](https://www.polyu.edu.hk/eie/prospective-students/undergraduate-students/student-and-graduate-stories/) from Hong Kong Polytechnic University with first class honor, being advised by [Prof. Wan-Chi Siu](https://scholar.google.com/citations?user=ouQRncoAAAAJ&hl=en) and [Prof. Bonnie N.F. Law](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-law-ngai-fong-bonnie/).
 
-My research interests is pretty diverse but centered in content synthesis and manipulation:
+My research interests is diverse but centered in content synthesis and manipulation:
 
 - Image/Video + Generation/Editing
 - Multimodal (Vision/Language/Biomedical) Understanding

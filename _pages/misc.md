@@ -24,11 +24,8 @@ nav_order: 6
 
 ### Others
 
-Blogging
-
-- [A Learning website that I upload my notes since my undergrad.](https://vinesmsuic.github.io/)
-
-Gaming:
-
-- One Step From Eden Mods with 10k+ Subscribers in total.
-- [UGC League Team Fortress 2 Highlander](https://www.ugcleague.com/home_tf2h.cfm) : Platinum (Season 18)
+- Blogging
+  - [A Learning website that I upload my notes since my undergrad.](https://vinesmsuic.github.io/)
+- Gaming:
+  - One Step From Eden Mods with 10k+ Subscribers in total.
+  - [UGC League Team Fortress 2 Highlander](https://www.ugcleague.com/home_tf2h.cfm) : Platinum (Season 18)
