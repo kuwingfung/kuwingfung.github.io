@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[ImagenHub](https://tiger-ai-lab.github.io/ImagenHub/) got accepted to ICLR 2024!
+[ImagenHub](https://tiger-ai-lab.github.io/ImagenHub/) got accepted to ICLR 2024! See you in Vienna!
