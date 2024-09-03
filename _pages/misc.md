@@ -9,12 +9,14 @@ nav_order: 6
 
 ### Teaching Experience
 
-- Fall 2023: CS246E Object-Oriented Software Development (Enriched) - TA
-- Winter 2024: CS486/686 Introduction to Artificial Intelligence - TA
+- Fall 2024: CS 484/684 Computational Vision - TA
 - Spring 2024: CS246 Object-Oriented Software Development - TA
+- Winter 2024: CS486/686 Introduction to Artificial Intelligence - TA
+- Fall 2023: CS246E Object-Oriented Software Development (Enriched) - TA
 
 ### Service
 
+- 2024: ICLR 2025 Reviewer
 - 2020: [OpenCV Tutorial @ PolyU, with HKIESC and PolyU ROV Team](https://www.youtube.com/watch?v=9lTxI1hjAhk)
 
 ### Press Coverage
