@@ -2,7 +2,7 @@
 layout: page
 title: White-box Cartoonization GAN
 description: A pytorch implementation of Cartoon-based GAN.
-img: https://camo.githubusercontent.com/ed5d362ecab03a2b7732f6e87dd3f4b1a67633a9e33e81d60e6cda8daaac190c/68747470733a2f2f692e696d6775722e636f6d2f686c7a4f41546f2e706e67
+img: https://camo.githubusercontent.com/8d06c7072cb89fe9eb789c27e524e8063aae583c34a457ecdc783a14dfabb37d/68747470733a2f2f692e696d6775722e636f6d2f724837445668792e706e67
 redirect: https://github.com/vinesmsuic/White-box-Cartoonization-PyTorch
 importance: 1
 category: Fun

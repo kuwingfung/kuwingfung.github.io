@@ -2,7 +2,7 @@
 layout: page
 title: Renderer Toy
 description: A Rasterization+Raytracing renderer toy built with only C++. Implemented TeamFortress2 video game shader.
-img: https://camo.githubusercontent.com/ae85064e3bf7b127cb77837e7164f2d6aee5457c3f485a9c62e284afd6149b0a/68747470733a2f2f692e696d6775722e636f6d2f4e4533425873522e706e67
+img: https://camo.githubusercontent.com/987e8486661c765371f10c7f6cd40ab53d97725f99988ee6e4cb9978e2a712a5/68747470733a2f2f692e696d6775722e636f6d2f4f7161334f6f722e706e67
 redirect: https://github.com/vinesmsuic/TeamFortress2-Shader
 importance: 2
 category: Fun
