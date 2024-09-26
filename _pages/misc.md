@@ -10,6 +10,7 @@ nav_order: 6
 ### Awards
 
 Academics
+
 - **2024** International Doctoral Student Award
 - **2024** International Masters Award of Excellence
 - **2024** Graduate Student Research Dissemination Award: Travel grant for ICLR 2024 from UWaterloo.
@@ -20,6 +21,7 @@ Academics
 - **2019 - 2021** Dean List, Best GPA Award
 
 Competitions
+
 - **2021** Commendation Award, i-Space Virtual Reality Contest 2021, Submission: VR Bomberman Game
 - **2021** 7th place, ABU RoboCon 2021, Submission: Vision-Assisted Arrow Shooting Robots
 - **2020** 6th place, Best Institute Entity Award, ABU RoboCon 2020, Submission: Rugby Kicking Robots
@@ -46,11 +48,14 @@ Competitions
 ### Others
 
 Deep Learning Papers Reading Group
-  - [DL reading group for people on Threads](https://github.com/vinesmsuic/crisp-dl-read)
+
+- [DL reading group for people on Threads](https://github.com/vinesmsuic/crisp-dl-read)
 
 Blogging
-  - [A Learning website that I upload my notes since my undergrad.](https://vinesmsuic.github.io/)
+
+- [A Learning website that I upload my notes since my undergrad.](https://vinesmsuic.github.io/)
 
 Gaming
-  - One Step From Eden Mods with 10k+ Subscribers in total.
-  - [UGC League Team Fortress 2 Highlander](https://www.ugcleague.com/home_tf2h.cfm) : Platinum (Season 18)
+
+- One Step From Eden Mods with 10k+ Subscribers in total.
+- [UGC League Team Fortress 2 Highlander](https://www.ugcleague.com/home_tf2h.cfm) : Platinum (Season 18)

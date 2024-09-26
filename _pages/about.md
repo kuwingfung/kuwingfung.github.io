@@ -24,5 +24,6 @@ My research interests centered in content synthesis and manipulation:
 
 - Image/Video + Generation/Editing
 - Image/Video Applications on Robotics
+- Image/Video Disentanglement
 
 I aim to create AI systems that are highly controllable, reliable, and user-friendly.
