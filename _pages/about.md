@@ -22,7 +22,7 @@ Previously, I earned [BSc in Internet and Multimedia Technologies](https://www.p
 
 My research interests centered in content synthesis and manipulation:
 
-- Image/Video/Molecules + Generation/Editing
-- Multimodal (Vision/Language/Biomedical) Understanding
+- Image/Video + Generation/Editing
+- Image/Video Applications on Robotics
 
 I aim to create AI systems that are highly controllable, reliable, and user-friendly.
