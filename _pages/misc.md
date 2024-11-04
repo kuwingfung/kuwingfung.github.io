@@ -59,3 +59,8 @@ Gaming
 
 - One Step From Eden Mods with 10k+ Subscribers in total.
 - [UGC League Team Fortress 2 Highlander](https://www.ugcleague.com/home_tf2h.cfm) : Platinum (Season 18)
+
+Hobbies
+
+- I like to play Basketball, Tennis, and Billiards.
+- I fall in love with cooking since I moved to Canada.
