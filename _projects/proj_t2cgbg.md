@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VisualNovel Background Generator
-description: A finetuned Stable Diffusion model to generate visual novel backgrounds
+description: A finetuned Stable Diffusion model to generate visual novel backgrounds.
 img: https://i.imgur.com/LF5UVuN.png
 redirect: https://huggingface.co/vinesmsuic/bg-visualnovel-v03
 importance: 1
