@@ -26,3 +26,5 @@ My research interest covers the following aspects:
 - Understand the robustness of vision models
 - Develop explainable evaluation metrics for vision tasks
 - Explore Agentic AI in visual understanding and generation
+
+Generally I am interested in building models that can understand the world and generate useful outputs (or manipulate them).
