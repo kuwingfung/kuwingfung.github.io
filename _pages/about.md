@@ -22,16 +22,15 @@ I like to work on AI visual systems in terms of controlliability, robustness, an
 
 - Controllability: Give control to the user to generate and manipulate visual outputs.
 
-* [AnyV2V](https://kuwingfung.github.io/publications/)
-* [DreamEdit](https://kuwingfung.github.io/publications/)
+  - [AnyV2V](https://kuwingfung.github.io/publications/)
+  - [DreamEdit](https://kuwingfung.github.io/publications/)
 
 - Robustness: Design metrics and measure the performance of the visual model under various conditions.
 
-* [GenAI-Arena](https://kuwingfung.github.io/publications/)
-* [VideoScore](https://kuwingfung.github.io/publications/)
-* [VIEScore](https://kuwingfung.github.io/publications/)
-* [ImagenHub](https://kuwingfung.github.io/publications/)
+  - [GenAI-Arena](https://kuwingfung.github.io/publications/)
+  - [VideoScore](https://kuwingfung.github.io/publications/)
+  - [VIEScore](https://kuwingfung.github.io/publications/)
+  - [ImagenHub](https://kuwingfung.github.io/publications/)
 
 - Usability: More efficient and effective visual communication.
-
-* [Intelligent-Painter](https://kuwingfung.github.io/publications/)
+  - [Intelligent-Painter](https://kuwingfung.github.io/publications/)
