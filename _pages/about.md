@@ -16,21 +16,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student in Computer Science student at the Cheriton School of Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). I work closely with [Sun Sun](https://scholar.google.ca/citations?user=2X_jP6kAAAAJ&hl=en) and [Prof. Hongyu Guo](https://uniweb.uottawa.ca/view/profile/members/4499) from National Research Council Canada.
+I am a first-year PhD student in Computer Science student at the Cheriton School of Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
 
-I like to work on AI visual systems in terms of controlliability, robustness, and usability.
+Previously, I earned [MMath in Computer Science](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/computer-science-master-math-mmath) from University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). Before that, I earned [BSc in Internet and Multimedia Technologies](https://www.polyu.edu.hk/eie/prospective-students/undergraduate-students/student-and-graduate-stories/) from Hong Kong Polytechnic University with first class honor, being advised by [Prof. Wan-Chi Siu](https://scholar.google.com/citations?user=ouQRncoAAAAJ&hl=en) and [Prof. Bonnie N.F. Law](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-law-ngai-fong-bonnie/). 
 
-- Controllability: Give control to the user to generate and manipulate visual outputs.
+My research interest covers the following aspects:
 
-  - [AnyV2V](https://kuwingfung.github.io/publications/)
-  - [DreamEdit](https://kuwingfung.github.io/publications/)
+- Build vision models for controllable generation and manipulation
+- Understand the robustness of vision models
+- Develop explainable evaluation metrics for vision tasks
+- Explore Agentic AI in visual understanding and generation
 
-- Robustness: Design metrics and measure the performance of the visual model under various conditions.
-
-  - [GenAI-Arena](https://kuwingfung.github.io/publications/)
-  - [VideoScore](https://kuwingfung.github.io/publications/)
-  - [VIEScore](https://kuwingfung.github.io/publications/)
-  - [ImagenHub](https://kuwingfung.github.io/publications/)
-
-- Usability: More efficient and effective visual communication.
-  - [Intelligent-Painter](https://kuwingfung.github.io/publications/)
+Generally I am interested in building models that can understand the world and generate useful outputs (or manipulate them). My research focuses on the controllability, robustness, and usability of the models.

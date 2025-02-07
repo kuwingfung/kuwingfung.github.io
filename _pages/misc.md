@@ -7,17 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-Previously, I earned [MMath in Computer Science](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/computer-science-master-math-mmath) from University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). Before that, I earned [BSc in Internet and Multimedia Technologies](https://www.polyu.edu.hk/eie/prospective-students/undergraduate-students/student-and-graduate-stories/) from Hong Kong Polytechnic University with first class honor, being advised by [Prof. Wan-Chi Siu](https://scholar.google.com/citations?user=ouQRncoAAAAJ&hl=en) and [Prof. Bonnie N.F. Law](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-law-ngai-fong-bonnie/). I was the recipient of [Undergraduate Research and Innovation Scholarship](https://www.polyu.edu.hk/en/gs/ug-research/uris/about-uris/). I also played in Robotics Team (ABU Robocon) and Game Development Competitions through my undergraduate study.
-
-My research interest covers the following aspects:
-
-- Build vision models for controllable generation and manipulation
-- Understand the robustness of vision models
-- Develop explainable evaluation metrics for vision tasks
-- Explore Agentic AI in visual understanding and generation
-
-Generally I am interested in building models that can understand the world and generate useful outputs (or manipulate them).
-
 ### Awards
 
 Academics
