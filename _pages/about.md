@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a first-year PhD student in Computer Science student at the Cheriton School of Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
 
-Previously, I earned [MMath in Computer Science](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/computer-science-master-math-mmath) from University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). Before that, I earned [BSc in Internet and Multimedia Technologies](https://www.polyu.edu.hk/eie/prospective-students/undergraduate-students/student-and-graduate-stories/) from Hong Kong Polytechnic University with first class honor, being advised by [Prof. Wan-Chi Siu](https://scholar.google.com/citations?user=ouQRncoAAAAJ&hl=en) and [Prof. Bonnie N.F. Law](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-law-ngai-fong-bonnie/). 
+Previously, I earned [MMath in Computer Science](https://uwaterloo.ca/future-graduate-students/programs/by-faculty/math/computer-science-master-math-mmath) from University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). Before that, I earned [BSc in Internet and Multimedia Technologies](https://www.polyu.edu.hk/eie/prospective-students/undergraduate-students/student-and-graduate-stories/) from Hong Kong Polytechnic University with first class honor, being advised by [Prof. Wan-Chi Siu](https://scholar.google.com/citations?user=ouQRncoAAAAJ&hl=en) and [Prof. Bonnie N.F. Law](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-law-ngai-fong-bonnie/).
 
 My research interest covers the following aspects:
 
