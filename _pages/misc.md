@@ -7,6 +7,12 @@ nav: true
 nav_order: 6
 ---
 
+### Service
+
+- 2025: Reviewer for TVCG 2025, SIGGRAPH 2025
+- 2024: Reviewer for ICLR 2025 
+- 2020: [OpenCV Tutorial @ PolyU, with HKIESC and PolyU ROV Team](https://www.youtube.com/watch?v=9lTxI1hjAhk)
+
 ### Awards
 
 Academics
@@ -34,11 +40,6 @@ Competitions
 - Spring 2024: CS246 Object-Oriented Software Development - TA
 - Winter 2024: CS486/686 Introduction to Artificial Intelligence - TA
 - Fall 2023: CS246E Object-Oriented Software Development (Enriched) - TA
-
-### Service
-
-- 2024: ICLR 2025 Reviewer
-- 2020: [OpenCV Tutorial @ PolyU, with HKIESC and PolyU ROV Team](https://www.youtube.com/watch?v=9lTxI1hjAhk)
 
 ### Press Coverage
 
