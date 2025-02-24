@@ -10,8 +10,16 @@ nav_order: 6
 ### Service
 
 - 2025: Reviewer for TVCG 2025, SIGGRAPH 2025
-- 2024: Reviewer for ICLR 2025 
+- 2024: Reviewer for ICLR 2025
 - 2020: [OpenCV Tutorial @ PolyU, with HKIESC and PolyU ROV Team](https://www.youtube.com/watch?v=9lTxI1hjAhk)
+
+### Education
+
+2024 Fall - Now : PhD in Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
+2023 Winter - 2024 Spring : MMath in Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
+2018 Fall - 2022 Spring : BSc in Internet and Multimedia Technologies, Hong Kong Polytechnic University
+
+<!--, advised by [Prof. Wan-Chi Siu](https://scholar.google.com/citations?user=ouQRncoAAAAJ&hl=en) and [Prof. Bonnie N.F. Law](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-law-ngai-fong-bonnie/).-->
 
 ### Awards
 
