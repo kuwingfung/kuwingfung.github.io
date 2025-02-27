@@ -7,11 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-### Service
+### Services
 
-- 2025: Reviewer for TVCG 2025, SIGGRAPH 2025
-- 2024: Reviewer for ICLR 2025
-- 2020: [OpenCV Tutorial @ PolyU, with HKIESC and PolyU ROV Team](https://www.youtube.com/watch?v=9lTxI1hjAhk)
+I have served as a reviewer for the following conferences and journals:
+
+- TVCG 2025
+- SIGGRAPH 2025
+- ICLR 2025
 
 ### Education
 
@@ -49,10 +51,11 @@ Competitions
 - Winter 2024: CS486/686 Introduction to Artificial Intelligence - TA
 - Fall 2023: CS246E Object-Oriented Software Development (Enriched) - TA
 
-### Press Coverage
+### Press Coverage / Invited Talks
 
 - 2024: Interviewed by MIT Technology Review China & DeepTech for my research work AnyV2V.
 - 2022: Interviewed in 1-hour prime show ABU Asia-Pacific RoboCon 2021 HK Contest broadcasted by RTHK.
+- 2020: [OpenCV Tutorial @ PolyU, with HKIESC and PolyU ROV Team](https://www.youtube.com/watch?v=9lTxI1hjAhk)
 
 ### Others
 
