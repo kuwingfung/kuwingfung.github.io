@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-### Services
+### Professional Activities
 
 I have served as a reviewer for the following conferences and journals:
 
@@ -16,6 +16,21 @@ I have served as a reviewer for the following conferences and journals:
 - SIGGRAPH 2025
 - ICLR 2025
 
+### Press Coverage / Invited Talks
+
+- 2024: Interviewed by MIT Technology Review China & DeepTech for my research work AnyV2V.
+- 2022: Interviewed in 1-hour prime show ABU Asia-Pacific RoboCon 2021 HK Contest broadcasted by RTHK.
+- 2020: [OpenCV Tutorial @ PolyU, with HKIESC and PolyU ROV Team](https://www.youtube.com/watch?v=9lTxI1hjAhk)
+
+### Teaching Experience
+
+- Fall 2024: CS 484/684 Computational Vision - TA
+- Spring 2024: CS246 Object-Oriented Software Development - TA
+- Winter 2024: CS486/686 Introduction to Artificial Intelligence - TA
+- Fall 2023: CS246E Object-Oriented Software Development (Enriched) - TA
+
+<hr>
+
 ### Education
 
 - 2024 Fall - Now : PhD in Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
@@ -23,6 +38,8 @@ I have served as a reviewer for the following conferences and journals:
 - 2018 Fall - 2022 Spring : BSc in Internet and Multimedia Technologies, Hong Kong Polytechnic University
 
 <!--, advised by [Prof. Wan-Chi Siu](https://scholar.google.com/citations?user=ouQRncoAAAAJ&hl=en) and [Prof. Bonnie N.F. Law](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-law-ngai-fong-bonnie/).-->
+
+<!-- -->
 
 ### Awards
 
@@ -44,19 +61,6 @@ Competitions
 - **2020** 6th place, Best Institute Entity Award, ABU RoboCon 2020, Submission: Rugby Kicking Robots
 - **2019** 4th place, Best Engineering Award, ABU RoboCon 2019, Submission: Item Passing Robots
 - **2019** 1st Runner-up, PolyU FENG Freshman Project Competition
-
-### Teaching Experience
-
-- Fall 2024: CS 484/684 Computational Vision - TA
-- Spring 2024: CS246 Object-Oriented Software Development - TA
-- Winter 2024: CS486/686 Introduction to Artificial Intelligence - TA
-- Fall 2023: CS246E Object-Oriented Software Development (Enriched) - TA
-
-### Press Coverage / Invited Talks
-
-- 2024: Interviewed by MIT Technology Review China & DeepTech for my research work AnyV2V.
-- 2022: Interviewed in 1-hour prime show ABU Asia-Pacific RoboCon 2021 HK Contest broadcasted by RTHK.
-- 2020: [OpenCV Tutorial @ PolyU, with HKIESC and PolyU ROV Team](https://www.youtube.com/watch?v=9lTxI1hjAhk)
 
 ### Others
 
