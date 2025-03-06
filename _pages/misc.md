@@ -11,6 +11,7 @@ nav_order: 6
 
 I have served as a reviewer for the following conferences and journals:
 
+- ACL 2025
 - TVCG 2025
 - SIGGRAPH 2025
 - ICLR 2025
