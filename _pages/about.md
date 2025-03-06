@@ -18,4 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 I am a first-year PhD student in Computer Science student at the Cheriton School of Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
 
-I work on media generation and editing, focusing on visuals. My past research includes controllable generation and editing, and evaluation of generative models, with applications in content creation, automated multimedia synthesis. Generally I am interested in building models that can understand the world and generate useful outputs (or manipulate them). I care about controllability, robustness, and usability of the models.
+I work on media generation and editing, focusing on visuals. My past research includes controllable generation and editing, and evaluation of generative models, with applications in content creation and automated multimedia synthesis.
+
+Generally I am interested in building models that can understand the world and generate useful outputs (or manipulate them). I care about controllability, robustness, and usability of the models.
