@@ -18,10 +18,10 @@ I have served as a reviewer for the following conferences and journals:
 
 ### Press Coverage / Invited Talks
 
-- 2025: Gave an invited talk titled "GenAI Arena: An Open Evaluation Platform for Generative Models" at Multimodal Weekly 75 hosted by Twelve Labs
-- 2024: Featured in MIT Technology Review China & DeepTech for research work on AnyV2V
-- 2022: Featured in an hour-long prime time show about the ABU Asia-Pacific RoboCon 2021 Hong Kong Contest, broadcasted by RTHK
-- 2020: Delivered OpenCV Tutorial at PolyU in collaboration with HKIESC and PolyU ROV Team
+- 2025: Invited talk "GenAI Arena: An Open Evaluation Platform for Generative Models" at Multimodal Weekly 75 hosted by Twelve Labs
+- 2024: Interview "AnyV2V: A Tuning-Free Framework For Any Video-to-Video Editing Tasks" at MIT Technology Review China & DeepTech
+- 2022: Interview "ABU Asia-Pacific RoboCon 2021 Contest" broadcasted by Radio Television Hong Kong (RTHK)
+- 2020: Invited talk "Image Processing with OpenCV" Tutorial by HKIE Student Chapter at PolyU
 
 ### Teaching Experience
 
