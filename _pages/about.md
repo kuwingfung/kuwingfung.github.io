@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student in Computer Science student at the Cheriton School of Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
+I am a first-year Computer Science PhD student at the Cheriton School of Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
 
 I work on media generation and editing, focusing on visuals. My past research includes controllable generation and editing, and evaluation of generative models, with applications in content creation and automated multimedia synthesis.
 
