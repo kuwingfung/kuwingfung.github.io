@@ -20,7 +20,7 @@ I am a first-year PhD student in Computer Science student at the Cheriton School
 
 I work on media generation and editing, focusing on visuals. My past research includes controllable generation and editing, and evaluation of generative models, with applications in content creation and automated multimedia synthesis.
 
-I care about controllability, robustness, and usability of the models. I am generally interested in following keywords:
+I care about controllability, robustness, and usability of the models. I am generally interested in research areas containing the following keywords:
 
 - Generative AI
 - Controllable Generation / Editing
