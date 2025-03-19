@@ -65,6 +65,13 @@ Competitions
 
 ### Others
 
+Auxiliary Software Skills
+
+- Development Tools: Unity
+- 3D Modeling : Blender, Autodesk 3ds Max, Autodesk Maya
+- Media Editing : Adobe Photoshop, Adobe Premiere, Adobe Illustrator, Adobe InDesign
+
+
 Deep Learning Papers Reading Group
 
 - [DL reading group for people on Threads](https://github.com/vinesmsuic/crisp-dl-read)
