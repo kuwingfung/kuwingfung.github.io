@@ -25,7 +25,8 @@ nav_order: 6
 
 I have served as a reviewer for the following conferences and workshops:
 
-- ICML Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences, 2025
+- SIGGRAPH Asia 2025
+- ICML Workshop FM4LS, 2025
 - NeurIPS 2025
 - ACL 2025
 - TVCG 2025
