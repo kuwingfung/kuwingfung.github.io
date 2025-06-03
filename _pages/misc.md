@@ -7,14 +7,34 @@ nav: true
 nav_order: 6
 ---
 
-### Professional Activities
+### Education
 
-I have served as a reviewer for the following conferences and journals:
+- 2024 Fall - Now : PhD in Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
+- 2023 Winter - 2024 Spring : MMath in Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
+- 2018 Fall - 2022 Spring : BSc in Internet and Multimedia Technologies, Hong Kong Polytechnic University
 
+<!--, advised by [Prof. Wan-Chi Siu](https://scholar.google.com/citations?user=ouQRncoAAAAJ&hl=en) and [Prof. Bonnie N.F. Law](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-law-ngai-fong-bonnie/).-->
+
+<!--
+
+### Industry Experience
+
+- Summer 2025: Intern at NVIDIA DIR. Worked with Prithvijit Chattopadhyay and Ming-Yu Liu.-->
+
+### Professional Activities / Services
+
+I have served as a reviewer for the following conferences and workshops:
+
+- ICML Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences, 2025
+- NeurIPS 2025
 - ACL 2025
 - TVCG 2025
 - SIGGRAPH 2025
 - ICLR 2025
+
+<!--I have also served as a program chair for the following workshops:
+
+- NeurIPS Workshop on Global Mindscapes, 2025 -->
 
 ### Press Coverage / Invited Talks
 
@@ -25,22 +45,12 @@ I have served as a reviewer for the following conferences and journals:
 
 ### Teaching Experience
 
-- Fall 2024: CS 484/684 Computational Vision - TA
+- Fall 2024: CS 484/684 Computational Vision - TA with Prof. Yuri Boykov
 - Spring 2024: CS246 Object-Oriented Software Development - TA
-- Winter 2024: CS486/686 Introduction to Artificial Intelligence - TA
+- Winter 2024: CS486/686 Introduction to Artificial Intelligence - TA with Prof. Jesse Hoey
 - Fall 2023: CS246E Object-Oriented Software Development (Enriched) - TA
 
 <hr>
-
-### Education
-
-- 2024 Fall - Now : PhD in Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
-- 2023 Winter - 2024 Spring : MMath in Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
-- 2018 Fall - 2022 Spring : BSc in Internet and Multimedia Technologies, Hong Kong Polytechnic University
-
-<!--, advised by [Prof. Wan-Chi Siu](https://scholar.google.com/citations?user=ouQRncoAAAAJ&hl=en) and [Prof. Bonnie N.F. Law](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-law-ngai-fong-bonnie/).-->
-
-<!-- -->
 
 ### Awards
 
@@ -71,9 +81,11 @@ Auxiliary Software Skills
 - 3D Modeling : Blender, Autodesk 3ds Max, Autodesk Maya
 - Media Editing : Adobe Photoshop, Adobe Premiere, Adobe Illustrator, Adobe InDesign
 
-Deep Learning Papers Reading Group
+GGG (Guided Generation Group)
 
-- [DL reading group for people on Threads](https://github.com/vinesmsuic/crisp-dl-read)
+A Community driven group for reading and discussing papers in Generative AI.
+
+- [Reading Group Arrangements](https://github.com/vinesmsuic/crisp-dl-read)
 
 Blogging
 
@@ -86,5 +98,5 @@ Gaming
 
 Hobbies
 
-- I like to play Basketball, Tennis, and Billiards.
-- I fall in love with cooking since I moved to Canada.
+- I enjoy playing Basketball, Tennis, and Billiards.
+- I enjoy cooking as well. Feel free to show me your recipes.
