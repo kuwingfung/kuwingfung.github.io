@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [NVIDIA DIR](https://research.nvidia.com/labs/dir/) as an intern for Summer 2025.
+Joined [NVIDIA Deep Imagination Research](https://research.nvidia.com/labs/dir/) as an intern for Summer 2025.
