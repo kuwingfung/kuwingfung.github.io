@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m a first-year PhD student in Computer Science at the Faculty of Mathematics, University of Waterloo, where I’m fortunate to be advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
+I am a first-year PhD student in Computer Science at the Faculty of Mathematics, University of Waterloo, where I’m fortunate to be advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
 
 My research lies at the intersection of generative AI, visual content creation, and model interpretability. I’m particularly focused on advancing controllable generation and editing of visual media (image, video, and beyond), and on evaluating and improving the interpretability of generative models.
 
