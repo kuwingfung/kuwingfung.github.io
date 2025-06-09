@@ -16,18 +16,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student in Computer Science at the Faculty of Mathematics, University of Waterloo, where I’m fortunate to be advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
+I’m a first-year PhD student in Computer Science at the University of Waterloo, Faculty of Mathematics, where I’m fortunate to be advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
 
-My research lies at the intersection of generative AI, visual content creation, and model interpretability. I’m particularly focused on advancing controllable generation and editing of visual media (image, video, and beyond), and on evaluating and improving the interpretability of generative models.
+My research lies at the intersection of generative AI, visual content creation, and model interpretability. I’m particularly interested in making visual generation and editing (images, videos, and beyond) more controllable, interpretable, and usable in creative applications.
 
-At the core of my research is a simple but ambitious goal:
+At the heart of my work is a simple but ambitious goal:
 
-> Make visuals fully controllable and extend this control beyond visuals.
+> Make visuals fully controllable, across whatever applications I care about.
 
 My work covers:
 
 - Generative AI
-- Controllable Generation / Editing (Image, Video, and more)
-- Multi Modalities (Visuals + X)
-- Interpretability (by all means)
-- Creative applications in Entertainment and Education
+- Controllable Editing and Generation (Image, Video, and more)
+- Multimodal Agentic Systems  (Visuals + X)
+- Interpretability (e.g. Explanation)
+- Creative AI Applications in Entertainment and Education
