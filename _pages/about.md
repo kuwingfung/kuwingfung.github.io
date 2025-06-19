@@ -28,6 +28,6 @@ My work covers:
 
 - Generative AI
 - Controllable Editing and Generation (Image, Video, and more)
-- Multimodal Agentic Systems  (Visuals + X)
+- Multimodal Agentic Systems (Visuals + X)
 - Interpretability (e.g. Explanation)
 - Creative AI Applications in Entertainment and Education
