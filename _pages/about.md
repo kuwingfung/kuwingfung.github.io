@@ -22,12 +22,13 @@ My research lies at the intersection of generative AI, visual content creation, 
 
 At the heart of my work is a simple but ambitious goal:
 
-> Make visuals fully controllable, across whatever applications I care about.
+> To make generative visuals fully controllable across science, communication, and creative applications.
 
-My work covers:
+While visuals remain my core focus, I'm increasingly curious about how they can integrate with physical reasoning and scientific understanding. I believe controllability in generative models should go beyond aesthetics, extending to physical coherence and alignment with how we perceive the world.
 
-- Generative AI
-- Controllable Editing and Generation (Image, Video, and more)
+My work spans:
+
+- Controllable Editing and Generation (I prioritize editing over generation)
 - Multimodal Agentic Systems (Visuals + X)
-- Interpretability (e.g. Explanation)
-- Creative AI Applications in Entertainment and Education
+- Interpretability and Explainable AI
+- Creative Applications in Entertainment, Education, and Science
