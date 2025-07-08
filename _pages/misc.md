@@ -13,17 +13,18 @@ nav_order: 6
 - 2023 Winter - 2024 Spring : MMath in Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
 - 2018 Fall - 2022 Spring : BSc in Internet and Multimedia Technologies, Hong Kong Polytechnic University
 
-<!--, advised by [Prof. Wan-Chi Siu](https://scholar.google.com/citations?user=ouQRncoAAAAJ&hl=en) and [Prof. Bonnie N.F. Law](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-law-ngai-fong-bonnie/).-->
-
-<!--
 
 ### Industry Experience
 
-- Summer 2025: Intern at NVIDIA DIR. Worked with Prithvijit Chattopadhyay and Ming-Yu Liu.-->
+- Summer 2025: Research Intern at NVIDIA Research (Deep Imagination Research). 
 
-### Professional Activities / Services
+### Academic Experience
 
-I have served as a reviewer for the following conferences and workshops:
+- Summer 2022: Research Assistant at Saint Francis University (formerly Caritas Institute of Higher Education) with [Prof. Wan-Chi Siu](https://scholar.google.com/citations?user=ouQRncoAAAAJ&hl=en)
+- Fall 2021: Undergraduate Research and Innovation Scheme at Hong Kong Polytechnic University with [Prof. Bonnie N.F. Law](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-law-ngai-fong-bonnie/)
+- Summer 2020: Research Assistant at Hong Kong Polytechnic University with [Prof. Bonnie N.F. Law](https://www.polyu.edu.hk/en/eee/people/academic-staff-and-teaching-staff/dr-law-ngai-fong-bonnie/).
+
+Professional Activities / Services: I have also served as a reviewer for the following conferences and workshops:
 
 - SIGGRAPH Asia 2025
 - ICML Workshop FM4LS 2025
@@ -32,10 +33,6 @@ I have served as a reviewer for the following conferences and workshops:
 - TVCG 2025
 - SIGGRAPH 2025
 - ICLR 2025
-
-<!--I have also served as a program chair for the following workshops:
-
-- NeurIPS Workshop on Global Mindscapes, 2025 -->
 
 ### Press Coverage / Invited Talks
 
