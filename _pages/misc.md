@@ -3,10 +3,11 @@ layout: page
 permalink: /misc/
 title: Miscellaneous
 description:
-nav: true
+nav: false
 nav_order: 6
 ---
 
+<!--
 ### Education
 
 - 2024 Fall - Now : PhD in Computer Science, University of Waterloo, advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/).
@@ -16,7 +17,7 @@ nav_order: 6
 
 ### Industry Experience
 
-- Summer 2025: Research Intern at NVIDIA Research (Deep Imagination Research). 
+- Summer 2025: Research Intern at NVIDIA Research (Deep Imagination Research).
 
 ### Academic Experience
 
@@ -34,12 +35,6 @@ Professional Activities / Services: I have also served as a reviewer for the fol
 - SIGGRAPH 2025
 - ICLR 2025
 
-### Press Coverage / Invited Talks
-
-- 2025: Invited talk "GenAI Arena: An Open Evaluation Platform for Generative Models" at Multimodal Weekly 75 hosted by Twelve Labs
-- 2024: Interview "AnyV2V: A Tuning-Free Framework For Any Video-to-Video Editing Tasks" at MIT Technology Review China & DeepTech
-- 2022: Interview "ABU Asia-Pacific RoboCon 2021 Contest" broadcasted by Radio Television Hong Kong (RTHK)
-- 2020: Invited talk "Image Processing with OpenCV" Tutorial by HKIE Student Chapter at PolyU
 
 ### Teaching Experience
 
@@ -47,8 +42,6 @@ Professional Activities / Services: I have also served as a reviewer for the fol
 - Spring 2024: CS246 Object-Oriented Software Development - TA
 - Winter 2024: CS486/686 Introduction to Artificial Intelligence - TA with Prof. Jesse Hoey
 - Fall 2023: CS246E Object-Oriented Software Development (Enriched) - TA
-
-<hr>
 
 ### Awards
 
@@ -71,6 +64,16 @@ Competitions
 - **2019** 4th place, Best Engineering Award, ABU RoboCon 2019, Submission: Item Passing Robots
 - **2019** 1st Runner-up, PolyU FENG Freshman Project Competition
 
+-->
+
+### Press Coverage / Invited Talks
+
+- 2025: Invited talk "GenAI Arena: An Open Evaluation Platform for Generative Models" at Multimodal Weekly 75 hosted by Twelve Labs
+- 2024: Interview "AnyV2V: A Tuning-Free Framework For Any Video-to-Video Editing Tasks" at MIT Technology Review China & DeepTech
+- 2022: Interview "ABU Asia-Pacific RoboCon 2021 Contest" broadcasted by Radio Television Hong Kong (RTHK)
+- 2020: Invited talk "Image Processing with OpenCV" Tutorial by HKIE Student Chapter at PolyU
+
+<!--
 ### Others
 
 Auxiliary Software Skills
@@ -78,8 +81,9 @@ Auxiliary Software Skills
 - Development Tools: Unity
 - 3D Modeling : Blender, Autodesk 3ds Max, Autodesk Maya
 - Media Editing : Adobe Photoshop, Adobe Premiere, Adobe Illustrator, Adobe InDesign
+-->
 
-GGG (Guided Generation Group)
+### GGG (Guided Generation Group)
 
 A Community driven group for reading and discussing papers in Generative AI.
 
@@ -88,6 +92,8 @@ A Community driven group for reading and discussing papers in Generative AI.
 Blogging
 
 - [A Learning website that I upload my notes since my undergrad.](https://vinesmsuic.github.io/)
+
+### Fun
 
 Gaming
 
