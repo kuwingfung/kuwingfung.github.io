@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m a first-year PhD student in Computer Science at the **University of Waterloo**, Faculty of Mathematics, where I’m fortunate to be advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). I am currently interning as a Research Scientist at **NVIDIA**, under [Ming-Yu Liu](https://mingyuliu.net/).
+I’m a first-year PhD student in Computer Science at the **University of Waterloo**, Faculty of Mathematics, where I’m fortunate to be advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). I work on visual content generation. Previously I have interned in **[NVIDIA Deep Imagination Research](https://research.nvidia.com/labs/dir/)**. 
 
-My research lies at the intersection of generative AI, visual content creation, and model interpretability. At the heart of my work is a simple but ambitious goal:
+At the heart of my work is a simple but ambitious goal:
 
 > To make generative visuals fully controllable across science, communication, and creative applications.
 
@@ -46,5 +46,4 @@ Misc
 - I was a member of the HK PolyU Robotics Team during ABU Robocon 2019-2021. [A playlist.](https://www.youtube.com/watch?v=SXdlHsDGMmI&list=PLnBb01qou_lcYCLSfbAs-lZ5BZOzWsfSt)
 - I used to compete in official gaming tournament [UGC League Team Fortress 2 Highlander](https://www.ugcleague.com/home_tf2h.cfm).
 - "Wing Fung" (with the space) is my first name and "Ku" is my last name. "Max" is the commonly used "english name" that is not
-  part of my legal name. [This is common in Hong Kong](https://culturalatlas.sbs.com.au/hong-kong-culture/
-  hong-kong-culture-naming#westernising-chinese-names).
+  part of my legal name. [This is common in Hong Kong](https://culturalatlas.sbs.com.au/hong-kong-culture/hong-kong-culture-naming#westernising-chinese-names).
