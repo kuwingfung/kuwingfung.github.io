@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m a first-year PhD student in Computer Science at the **University of Waterloo**, Faculty of Mathematics, where I’m fortunate to be advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). I work on visual content generation. Previously I have interned in [NVIDIA Deep Imagination Research](https://research.nvidia.com/labs/dir/). 
+I’m a second-year PhD student in Computer Science at the **University of Waterloo**, Faculty of Mathematics, where I’m fortunate to be advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). I work on visual content generation. Previously I have interned in [NVIDIA Deep Imagination Research](https://research.nvidia.com/labs/dir/). 
 
 At the heart of my work is a simple but ambitious goal:
 
