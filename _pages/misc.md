@@ -27,6 +27,7 @@ nav_order: 6
 
 Professional Activities / Services: I have also served as a reviewer for the following conferences and workshops:
 
+- NeurIPS Workshop FM4LS 2025
 - SIGGRAPH Asia 2025
 - ICML Workshop FM4LS 2025
 - NeurIPS 2025

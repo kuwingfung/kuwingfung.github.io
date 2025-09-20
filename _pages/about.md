@@ -33,7 +33,7 @@ My work spans
 
 Professional Activities
 
-- Reviewed for: ICLR, NeurIPS, ICML, SIGGRAPH Asia, SIGGRAPH, TVCG, ACL, EMNLP, NAACL
+- Reviewed for: ICLR, NeurIPS, ICML, SIGGRAPH Asia, SIGGRAPH, TVCG, ACL, EMNLP
 
 Community
 
