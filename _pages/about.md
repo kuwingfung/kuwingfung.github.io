@@ -37,7 +37,7 @@ Professional Activities
 
 Community
 
-- I lead [GGG](https://github.com/vinesmsuic/crisp-dl-read), a community-driven group dedicated to sharing and discussing papers on Generative AI.
+- I lead [GGG](https://github.com/GuidedGenerationGroup), a community-driven group dedicated to sharing and discussing papers on Generative AI.
 - I host [Pro-bono Office Hour](https://forms.gle/x2cTvXhQw7Px2ojF8) to share advice with students from underrepresented backgrounds.
 
 Misc
