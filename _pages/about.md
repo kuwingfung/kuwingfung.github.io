@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m a second-year PhD student in Computer Science at the **University of Waterloo**, Faculty of Mathematics, where I’m fortunate to be advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/). I work on visual content generation. Previously I have interned in [NVIDIA Deep Imagination Research](https://research.nvidia.com/labs/dir/).
+I’m a second-year PhD student in Computer Science at the **University of Waterloo**, Faculty of Mathematics, where I’m fortunate to be advised by [Prof. Wenhu Chen](https://wenhuchen.github.io/) and [Prof. Yuntian Deng](https://yuntiandeng.com/). I work on visual content generation. Previously I have interned in [NVIDIA Deep Imagination Research](https://research.nvidia.com/labs/dir/).
 
 At the heart of my work is a simple but ambitious goal:
 
@@ -38,7 +38,7 @@ Professional Activities
 Community
 
 - I lead [GGG](https://github.com/GuidedGenerationGroup), a community-driven group dedicated to sharing and discussing papers on Generative AI.
-- I host [Pro-bono Office Hour](https://forms.gle/x2cTvXhQw7Px2ojF8) to share advice with students from underrepresented backgrounds.
+- I host [Pro-bono Office Hour / Online Coffee Chat](https://forms.gle/x2cTvXhQw7Px2ojF8) to share advice with students from underrepresented backgrounds.
 
 Misc
 
