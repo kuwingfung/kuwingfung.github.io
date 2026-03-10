@@ -22,7 +22,7 @@ At the heart of my work is a simple but ambitious goal:
 
 > To make generative visuals fully controllable across science, communication, and creative applications.
 
-While visuals remain my core focus, I am increasingly curious about how they can integrate with physical reasoning and scientific understanding. I believe controllability in generative models should go beyond aesthetics, extending to physical coherence and alignment with how we perceive the world.
+While visuals remain my core focus, I am increasingly curious about how they can integrate with physical reasoning. I believe controllability in generative models should go beyond aesthetics, extending to physical coherence and alignment with how we perceive the world. **I am also very interested in Game World Models recently.**
 
 My research interest spans
 
@@ -48,3 +48,4 @@ Misc
 - "Wing Fung" (with the space) is my first name and "Ku" is my last name. "Max" is the commonly used "english name" that is not
   part of my legal name. [This is common in Hong Kong](https://culturalatlas.sbs.com.au/hong-kong-culture/hong-kong-culture-naming#westernising-chinese-names).
 - Project Moon Fans: [We are not cavemen, we have technology. ](https://youtu.be/FjVNHFRS438?si=B57xO44eUKIe8A8f)
+- "The recipe for great work is: very exacting taste, plus the ability to gratify it." - Paul Graham, Hackers and Painters
