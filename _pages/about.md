@@ -33,7 +33,8 @@ My research interest spans
 
 Professional Activities
 
-- Reviewed for: ICLR, NeurIPS, ICML, SIGGRAPH Asia, SIGGRAPH, TVCG, ACL, EMNLP, TMLR
+- Reviewer for Conferences: ICLR, NeurIPS, ICML, SIGGRAPH Asia, SIGGRAPH, TVCG, ACL, EMNLP, TMLR
+- Reviewer for Workshops: ICMLW, ECCVW, WACVW, NeurIPSW
 
 Community
 
