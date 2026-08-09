@@ -26,7 +26,7 @@ While visuals remain my core focus, I am increasingly curious about how they can
 
 My research interest spans
 
-- Controllable Editing and Generation (I prioritize editing over generation)
+- Controllable **Editing** and Generation (I prioritize editing over generation)
 - World Models (Games, Agent, Physics, ...)
 - Interpretability and Explainable AI
 - Creative Applications in Entertainment, Education, and Science
@@ -50,3 +50,4 @@ Misc
   part of my legal name. [This is common in Hong Kong](https://culturalatlas.sbs.com.au/hong-kong-culture/hong-kong-culture-naming#westernising-chinese-names).
 - Project Moon Fans: [We are not cavemen, we have technology. ](https://youtu.be/FjVNHFRS438?si=B57xO44eUKIe8A8f)
 - "The recipe for great work is: very exacting taste, plus the ability to gratify it." - Paul Graham, Hackers and Painters
+- 我只記風雪之中誰曾與我並肩守夜；亦記道途低谷誰願停步聽我一言。他日若我行至高處必不忘來時微光；凡曾護我於羽翼未豐之際我亦願護其一程。
