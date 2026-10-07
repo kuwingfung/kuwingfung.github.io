@@ -16,20 +16,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a third-year PhD student in Computer Science at the **University of Waterloo**, Faculty of Mathematics, where I am fortunate to be advised by [Wenhu Chen](https://wenhuchen.github.io/) and [Yuntian Deng](https://yuntiandeng.com/). I work on visual content generation. Previously I have interned in [Adobe Research](https://research.adobe.com/) and [NVIDIA Cosmos Lab](https://research.nvidia.com/labs/dir/).
+I am a third-year PhD student in Computer Science at the **University of Waterloo**, Faculty of Mathematics, advised by [Wenhu Chen](https://wenhuchen.github.io/) and [Yuntian Deng](https://yuntiandeng.com/). Previously, I interned at [Adobe Research](https://research.adobe.com/) and [NVIDIA Research](https://research.nvidia.com/labs/dir/).
 
-At the heart of my work is a simple but ambitious goal:
+My research studies how generative models can **understand and edit visual and executable worlds**. I am particularly interested in moving beyond appearance-level generation toward interventions that preserve the structure, dynamics, and consequences of the underlying world.
 
-> To make generative visuals fully controllable across science, communication, and creative applications.
+My work has evolved from controllable image and video generation and evaluation, to physical reasoning and, more recently, **world editing**: editing existing worlds at increasingly deep levels, from visual properties and entities to dynamics and system-level behavior. I am especially interested in **games as executable testbeds for world models and world editing**, where interventions can be evaluated through actual state transitions and long-horizon interactions. My current research interests include
 
-While visuals remain my core focus, I am increasingly curious about how they can integrate with physical reasoning. I believe controllability in generative models should go beyond aesthetics, extending to physical coherence and alignment with how we perceive the world. **I am also very interested in Game World Models recently.**
-
-My research interest spans
-
-- Controllable **Editing** and Generation (I prioritize editing over generation)
-- World Models (Games, Agent, Physics, ...)
-- Interpretability and Explainable AI
-- Creative Applications in Entertainment, Education, and Science
+- **World Editing**: intervening on existing visual and executable worlds at increasing semantic and structural depth.
+- **Controllable Video and Image Editing**: precise, counterfactual, and temporally consistent manipulation.
+- **World and Physical Reasoning**: understanding dynamics, causality, and executable representations of visual environments.
+- **Evaluation and Interpretability**: grounded and explainable evaluation of generative models.
 
 Professional Activities
 
