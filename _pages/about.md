@@ -18,9 +18,9 @@ social: true # includes social icons at the bottom of the page
 
 I am a third-year PhD student in Computer Science at the **University of Waterloo**, Faculty of Mathematics, advised by [Wenhu Chen](https://wenhuchen.github.io/) and [Yuntian Deng](https://yuntiandeng.com/). Previously, I interned at [Adobe Research](https://research.adobe.com/) and [NVIDIA Research](https://research.nvidia.com/labs/dir/).
 
-My research studies how generative models can **understand and edit visual and executable worlds**. I am particularly interested in moving beyond appearance-level generation toward interventions that preserve the structure, dynamics, and consequences of the underlying world.
+My research focuses on **understanding and editing worlds**, spanning controllable generation, evaluation, physical reasoning, and world editing.
 
-My work has evolved from controllable image and video generation and evaluation, to physical reasoning and, more recently, **world editing**: editing existing worlds at increasingly deep levels, from visual properties and entities to dynamics and system-level behavior. I am especially interested in **games as executable testbeds for world models and world editing**, where interventions can be evaluated through actual state transitions and long-horizon interactions. My current research interests include
+I am especially interested in how generative models can make precise interventions while preserving the structure and dynamics of the world. My current research interests include
 
 - **World Editing**: intervening on existing visual and executable worlds at increasing semantic and structural depth.
 - **Controllable Video and Image Editing**: precise, counterfactual, and temporally consistent manipulation.
