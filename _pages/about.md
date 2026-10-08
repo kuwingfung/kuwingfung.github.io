@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://uwaterloo.ca/'>University of Waterloo</a>; <a href='https://vectorinstitute.ai/'>Vector Institute</a>;
+subtitle:
 
 profile:
   align: right
@@ -22,9 +22,9 @@ My research focuses on **understanding and editing worlds**, spanning controllab
 
 I am especially interested in how generative models can make precise interventions while preserving the structure and dynamics of the world. My current research interests include
 
-- **World Editing**: intervening on existing visual and executable worlds at increasing semantic and structural depth.
+- **World Editing**: making precise interventions while preserving the structure and dynamics of the world.
 - **Controllable Video and Image Editing**: precise, counterfactual, and temporally consistent manipulation.
-- **World and Physical Reasoning**: understanding dynamics, causality, and executable representations of visual environments.
+- **World and Physical Reasoning**: understanding dynamics, causality, and how changes propagate through a scene.
 - **Evaluation and Interpretability**: grounded and explainable evaluation of generative models.
 
 Professional Activities
@@ -35,7 +35,7 @@ Professional Activities
 Community
 
 - I lead [GGG](https://github.com/GuidedGenerationGroup), a community-driven group dedicated to sharing and discussing papers on Generative AI.
-- I host [1:1 Online Coffee Chat](https://forms.gle/x2cTvXhQw7Px2ojF8) to share advice with students from underrepresented backgrounds.
+- I host [Online Coffee Chat](https11://forms.gle/x2cTvXhQw7Px2ojF8) to share advice with students from underrepresented backgrounds.
 
 Misc
 
@@ -46,4 +46,4 @@ Misc
   part of my legal name. [This is common in Hong Kong](https://culturalatlas.sbs.com.au/hong-kong-culture/hong-kong-culture-naming#westernising-chinese-names).
 - Project Moon Fans: [We are not cavemen, we have technology. ](https://youtu.be/FjVNHFRS438?si=B57xO44eUKIe8A8f)
 - "The recipe for great work is: very exacting taste, plus the ability to gratify it." - Paul Graham, Hackers and Painters
-- 我只記風雪之中誰曾與我並肩守夜；亦記道途低谷誰願停步聽我一言。他日若我行至高處必不忘來時微光；凡曾護我於羽翼未豐之際我亦願護其一程。
+<!-- - 我只記風雪之中誰曾與我並肩守夜；亦記道途低谷誰願停步聽我一言。他日若我行至高處必不忘來時微光；凡曾護我於羽翼未豐之際我亦願護其一程。 -->
