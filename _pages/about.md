@@ -18,14 +18,12 @@ social: true # includes social icons at the bottom of the page
 
 I am a third-year PhD student in Computer Science at the **University of Waterloo**, Faculty of Mathematics, advised by [Wenhu Chen](https://wenhuchen.github.io/) and [Yuntian Deng](https://yuntiandeng.com/). Previously, I interned at [Adobe Research](https://research.adobe.com/) and [NVIDIA Research](https://research.nvidia.com/labs/dir/).
 
-My research focuses on **understanding and editing worlds**, spanning controllable generation, evaluation, physical reasoning, and world editing.
+My current research focuses on Open-Ended Intelligence through Editable Worlds: exploring how AI systems can modify, understand, and adapt to worlds with changing rules and dynamics. My previous research spans:
 
-I am especially interested in how generative models can make precise interventions while preserving the structure and dynamics of the world. My current research interests include
-
-- **World Editing**: making precise interventions while preserving the structure and dynamics of the world.
-- **Controllable Video and Image Editing**: precise, counterfactual, and temporally consistent manipulation.
-- **World and Physical Reasoning**: understanding dynamics, causality, and how changes propagate through a scene.
-- **Evaluation and Interpretability**: grounded and explainable evaluation of generative models.
+- **World Editing**: Enabling precise interventions while preserving the structure and dynamics of the world.
+- **Controllable Video and Image Editing**: Precise, counterfactual, and temporally consistent manipulation.
+- **World and Physical Reasoning**: Understanding dynamics, causality, and how changes propagate through a scene.
+- **Evaluation and Interpretability**: Grounded and explainable evaluation of generative models.
 
 Professional Activities
 
@@ -39,7 +37,9 @@ Community
 
 Misc
 
-- [Vines' Log](https://vinesmsuic.github.io/), where I keep my reading notes and various logs.
+<!--- [Max's Thoughts](), I have decided to share my thoughts there.-->
+
+- [Vines' Log](https://vinesmsuic.github.io/), where I keep my casual reading notes and various logs.
 - I was a member of the HK PolyU Robotics Team during ABU Robocon 2019-2021. [A playlist.](https://www.youtube.com/watch?v=SXdlHsDGMmI&list=PLnBb01qou_lcYCLSfbAs-lZ5BZOzWsfSt)
 - I used to compete in official gaming tournament [UGC League Team Fortress 2 Highlander](https://www.ugcleague.com/home_tf2h.cfm).
 - "Wing Fung" (with the space) is my first name and "Ku" is my last name. "Max" is the commonly used "english name" that is not
